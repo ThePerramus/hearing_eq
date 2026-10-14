@@ -124,3 +124,12 @@ pyinstaller HearingEQ.spec
 This produces a single `dist/HearingEQ.exe` containing the GUI and all three
 tools. ffmpeg still needs to be on `PATH`. (`audiogram.spec` and
 `hearing_eq.spec` are older per-tool builds.)
+
+## Download
+
+A prebuilt `HearingEQ.exe` (Windows) is available on the
+[Releases](https://github.com/ThePerramus/hearing_eq/releases) page.
+
+## License
+
+[MIT](LICENSE)
